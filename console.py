@@ -17,6 +17,7 @@ book_repository.save(book1)
 book2 = Book("The Hobbit", author2)
 book_repository.save(book2)
 
+pdb.set_trace()
 
 
 
